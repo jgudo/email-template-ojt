@@ -19,10 +19,11 @@ A few hints for this task:
 # Get started
 1. Install Git / create github account
 2. Config git and github: [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
-3. Clone the repo ```git clone git@github.com:jgudo/email-template-ojt.git```
-4. Create a new branch ```git checkout -b <nameofyourbranch>```
-5. Open the ```index.html``` file to see the starter template
-6. Start coding
+3. Fork the repo
+4. Clone the forked repo ```git clone git@github.com:jgudo/email-template-ojt.git```
+5. Create a new branch ```git checkout -b <nameofyourbranch>```
+6. Open the ```index.html``` file to see the starter template
+7. Start coding
 
 # How to commit changes
 Using your terminal/git bash
