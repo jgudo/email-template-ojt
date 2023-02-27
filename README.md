@@ -17,12 +17,12 @@ A few hints for this task:
 1. The Facebook and website logo on the footer should be a link and will open the Official FB page/ website of PELCO 1
 
 # Get started 
-1. Clone the repo
-2. Create a new branch
+1. Clone the repo ```git clone git@github.com:jgudo/email-template-ojt.git```
+2. Create a new branch ```git checkout -b <nameofyourbranch>```
 3. Open the ```index.html``` file to see the starter template
 4. Start coding
 
-## How to commit changes
+# How to commit changes
 Using your terminal/git bash
 1.  ```git add .```
 2.  ```git commit -m "Your commit message"```
