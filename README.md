@@ -16,11 +16,13 @@ For the images/icons to be displayed/inserted , use the URLs below for referenci
 A few hints for this task:
 1. The Facebook and website logo on the footer should be a link and will open the Official FB page/ website of PELCO 1
 
-# Get started 
-1. Clone the repo ```git clone git@github.com:jgudo/email-template-ojt.git```
-2. Create a new branch ```git checkout -b <nameofyourbranch>```
-3. Open the ```index.html``` file to see the starter template
-4. Start coding
+# Get started
+1. Install Git / create github account
+2. Config git and github: [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
+3. Clone the repo ```git clone git@github.com:jgudo/email-template-ojt.git```
+4. Create a new branch ```git checkout -b <nameofyourbranch>```
+5. Open the ```index.html``` file to see the starter template
+6. Start coding
 
 # How to commit changes
 Using your terminal/git bash
