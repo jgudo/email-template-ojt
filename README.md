@@ -30,6 +30,7 @@ Using your terminal/git bash
 1.  ```git add .```
 2.  ```git commit -m "Your commit message"```
 3.  ```git push origin <yourbranchname> ```
+4. Create pull request
 
 Notable tutorials:
 Git: https://www.w3schools.com/git/git_intro.asp?remote=github
